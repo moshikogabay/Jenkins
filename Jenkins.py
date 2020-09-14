@@ -28,3 +28,5 @@
 #     shutil.copy("C:\\Users\\moshiko.gabay\\Desktop\\Jenkins-homework.txt", "C:\\Users\\moshiko.gabay\\Desktop\\DevOps")
 #
 # task3()
+
+print "hello world"
